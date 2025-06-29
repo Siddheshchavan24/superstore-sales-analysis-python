@@ -71,5 +71,5 @@ This project analyzes retail sales data from a US-based superstore using Python 
 
 **Siddhesh Chavan**  
 *Aspiring Business Intelligence Engineer*  
-[LinkedIn]([www.linkedin.com/in/siddheshchavan24](https://www.linkedin.com/in/siddheshchavan24/)) | [GitHub](https://github.com/Siddheshchavan24)
+[LinkedIn](https://www.linkedin.com/in/siddheshchavan24/) | [GitHub](https://github.com/Siddheshchavan24)
 
